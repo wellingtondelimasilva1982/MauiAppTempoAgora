@@ -8,7 +8,7 @@
     Title="MauiAppTempoAgora">
 
     <ShellContent
-        Title="Home"
+        Title="Agenda 07 - App Tempo"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
